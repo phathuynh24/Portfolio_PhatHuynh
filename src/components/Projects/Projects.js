@@ -17,24 +17,25 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://github.com/user-attachments/assets/b5846ce6-409a-4b3d-8da1-a52b39bceba5"
-              isBlog={false}
-              title="MultiGames"
-              description="A cross-platform mobile app for Android and iOS with two games: Drawing Guess and Spy Detection. These involve
-creative drawing and word guessing, as well as inference challenges similar to the game Werewolf."
-              ghLink="https://github.com/phathuynh24/MultiGames"
-              demoLink=""
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath="https://github.com/user-attachments/assets/c55f0e8e-8707-43db-a35c-c7b18aa6c4a2"
               isBlog={false}
               title="Health Consulting"
               description="An advanced health consulting application featuring chat and video consultations, appointment management, health
 records, a GPT-powered chatbot, and a medical product marketplace. The app includes three modules for users, doctors,
 and admins. It integrates AI models for disease prediction to suggest suitable doctors for consultation."
-              ghLink="https://github.com/phathuynh24/HealthConsulting"
+              ghLink="https://github.com/bduy1011/SE121.O11-Do_An_1"
+              demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath="https://github.com/user-attachments/assets/b5846ce6-409a-4b3d-8da1-a52b39bceba5"
+              isBlog={false}
+              title="MultiGames"
+              description="A cross-platform mobile app for Android and iOS with two games: Drawing Guess and Spy Detection. These involve
+creative drawing and word guessing, as well as inference challenges similar to the game Werewolf."
+              ghLink="https://github.com/thienenpi/MultiGames"
               demoLink=""
             />
           </Col>
@@ -45,7 +46,7 @@ and admins. It integrates AI models for disease prediction to suggest suitable d
               isBlog={false}
               title="Asset Management "
               description="An application for managing physical assets within the university, including device management, inventory tracking, maintenance scheduling, usage history, and feedback for repairs if damaged. The app features two roles: students/teachers and admins."
-              ghLink="https://github.com/phathuynh24/AssetManagement"
+              ghLink="https://github.com/Phat723/SE100.011_QL_CSVC"
               demoLink=""
             />
           </Col>
@@ -56,7 +57,7 @@ and admins. It integrates AI models for disease prediction to suggest suitable d
               isBlog={false}
               title="Money Management"
               description="An Android app for recording income and expenses by category, with monthly transaction statistics."
-              ghLink="https://github.com/phathuynh24/MoneyManagement"
+              ghLink="https://github.com/bduy1011/SE114.N21_Group12"
               demoLink=""
             />
           </Col>
@@ -68,7 +69,7 @@ and admins. It integrates AI models for disease prediction to suggest suitable d
               title="Hotel Management - C#"
               description="A desktop app for hotel management, handling staff, customers, rooms, inventory, services, reservations, and generating
 statistical reports."
-              ghLink="https://github.com/phathuynh24/HotelManagement_CSharp"
+              ghLink="https://github.com/bduy1011/HotelManagement"
             />
           </Col>
 

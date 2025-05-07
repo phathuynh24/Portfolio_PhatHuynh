@@ -26,13 +26,13 @@ function Home2() {
               </i>
               , and experience with AI models and Flask.
               <br />
-              <br />
+              {/* <br />
               As an intern at COHOTA, I developed and published the Catbus Student and Teacher apps, and enhanced the Catbus Parent app, reducing bugs by 30%.
+              <br /> */}
               <br />
-              <br />
-              My university projects include leading the development of MultiGames and creating a Health Consulting app with AI integration, using technologies like
+              During my time at university, I have worked on several projects, but the two standout projects are leading the development of the MultiGames app and creating the Health Consulting app with AI integration. These projects allowed me to apply and refine my skills using technologies such as
               <i>
-                <b className="purple"> React Native, Javascript, MongoDB, Express.js, Node.js, Dart, Flutter, and Python </b>
+                <b className="purple"> React Native, Javascript, MongoDB, Express.js, Node.js, Dart, Flutter, Python, Flask, and Gemini API </b>
               </i>
               .
               <br />
@@ -43,7 +43,7 @@ function Home2() {
               </i>
               , and frameworks such as
               <i>
-                <b className="purple"> Flutter, React Native, WPF, and WinForms </b>
+                <b className="purple"> Flutter, React Native, ReactJS, WPF, and WinForms </b>
               </i>
               . I also have experience with
               <i>
@@ -90,7 +90,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/phathuynhtien/"
+                  href="https://www.linkedin.com/in/phathuynh24/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
